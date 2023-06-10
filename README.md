@@ -8,10 +8,10 @@ Project was made for engineering degree. The purpose of the thesis was to explor
 ![Screenshot_2023_0610_191456](https://github.com/LukaszSinica/templateProject/assets/64593019/6b7124fc-a2b0-4148-8bb5-3ee5d2744fdc)
 
 ### Item details screen
-![Screenshot_2023_0610_191517](https://github.com/LukaszSinica/templateProject/assets/64593019/bbb66416-dc53-4024-ae9b-e0674d0613bf)
+![Screenshot_2023_0610_191609](https://github.com/LukaszSinica/templateProject/assets/64593019/1c92783a-d0d0-4603-8dd6-cc38633db3e4)
 
 ### Adding item screen
-![Screenshot_2023_0610_191609](https://github.com/LukaszSinica/templateProject/assets/64593019/87b97f55-6fc6-48c1-9c04-a2a9e08de0ba)
+![Screenshot_2023_0610_191517](https://github.com/LukaszSinica/templateProject/assets/64593019/e369915b-0955-47bf-aa7d-912fa49d28a7)
 
 ### Deleting items screen
-![Screenshot_2023_0610_191559](https://github.com/LukaszSinica/templateProject/assets/64593019/7dcc54c7-2049-441f-b60b-dd73416ffe63)
+![Screenshot_2023_0610_191559](https://github.com/LukaszSinica/templateProject/assets/64593019/0f259ff1-9866-4d6f-aff1-e516236c920b)
