@@ -5,7 +5,7 @@ Project was made for engineering degree. The purpose of the thesis was to explor
 ## Pictures
 
 ### General screen
-![Screenshot_2023_0610_191456](https://github.com/LukaszSinica/templateProject/assets/64593019/8e9aa31e-6c4d-45f7-bb45-3d0b9c95e941)
+![Screenshot_2023_0610_191456](https://github.com/LukaszSinica/templateProject/assets/64593019/6b7124fc-a2b0-4148-8bb5-3ee5d2744fdc)
 
 ### Item details screen
 ![Screenshot_2023_0610_191517](https://github.com/LukaszSinica/templateProject/assets/64593019/bbb66416-dc53-4024-ae9b-e0674d0613bf)
