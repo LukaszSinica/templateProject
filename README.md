@@ -9,11 +9,11 @@ Project was made for engineering degree. The purpose of the thesis was to explor
 </p>
 <p align="center">
   <h2>Item details screen</h2>
-  <img src="https://github.com/LukaszSinica/templateProject/assets/64593019/1c92783a-d0d0-4603-8dd6-cc38633db3e4">  
+  <img src="https://github.com/LukaszSinica/templateProject/assets/64593019/e369915b-0955-47bf-aa7d-912fa49d28a7">  
 </p>
 <p align="center">
   <h2>Adding item screen</h2>
-  <img src="https://github.com/LukaszSinica/templateProject/assets/64593019/e369915b-0955-47bf-aa7d-912fa49d28a7">  
+  <img src="https://github.com/LukaszSinica/templateProject/assets/64593019/1c92783a-d0d0-4603-8dd6-cc38633db3e4">  
 </p>
 <p align="center">
   <h2>Deleting items screen</h2>
