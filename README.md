@@ -1,16 +1,17 @@
 # template
 
-Template
+Project was made for engineering degree. The purpose of the thesis was to explore the cloud-mobile boundary from a coding perspective, resulting in the development of a template based on cloud and mobile architectures. Project was made in flutter and firebase.
 
-## Getting Started
+## Pictures
 
-This project is a starting point for a Flutter application.
+### General screen
+![Screenshot_2023_0610_191456](https://github.com/LukaszSinica/templateProject/assets/64593019/8e9aa31e-6c4d-45f7-bb45-3d0b9c95e941)
 
-A few resources to get you started if this is your first Flutter project:
+### Item details screen
+![Screenshot_2023_0610_191517](https://github.com/LukaszSinica/templateProject/assets/64593019/bbb66416-dc53-4024-ae9b-e0674d0613bf)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Adding item screen
+![Screenshot_2023_0610_191609](https://github.com/LukaszSinica/templateProject/assets/64593019/87b97f55-6fc6-48c1-9c04-a2a9e08de0ba)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Deleting items screen
+![Screenshot_2023_0610_191559](https://github.com/LukaszSinica/templateProject/assets/64593019/7dcc54c7-2049-441f-b60b-dd73416ffe63)
